@@ -11,7 +11,11 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
+<<<<<<< Updated upstream
   url: 'http://127.0.0.1:3000',
+=======
+  url: 'http://127.0.0.1:3000/',
+>>>>>>> Stashed changes
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
