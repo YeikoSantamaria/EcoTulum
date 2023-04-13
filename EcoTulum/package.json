@@ -1,5 +1,5 @@
 {
-  "name": "eco-tulum",
+  "name": "ecotulum",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -38,6 +38,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.00"
+    "node": ">=16.14"
   }
 }

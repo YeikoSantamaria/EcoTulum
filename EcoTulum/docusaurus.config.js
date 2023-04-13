@@ -6,15 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  // @ts-ignore
-title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Eco Tulum',
+  tagline: 'Luxury Real Estate',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  // For GitHub pages deployment, this should be your GitHub pages url
-  url: 'http://127.0.0.1:3000',
-
+  url: 'https://github.com/YeikoSantamaria/EcoTulum',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -66,20 +63,6 @@ title: 'My Site',
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
-
-      algolia: {
-        apiKey: 'c24757fd3f34e0e6fccf1dba0275f1f0',
-        indexName: 'EcoTulum',
-        appId: 'VPUGE9BFJE',
-        // Optional: see doc section bellow
-        contextualSearch: true,
-  
-        // Optional: Algolia search parameters
-        //searchParameters: {},
-  
-        //... other Algolia params
-      },
-
       navbar: {
         title: 'My Site',
         logo: {
