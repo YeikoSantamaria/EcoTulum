@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'YeikoSantamaria', // Usually your GitHub org/user name.
+  organizationName: 'YeikoSantamaria.github.io', // Usually your GitHub org/user name.
   projectName: 'EcoTulum', // Usually your repo name.
 
   onBrokenLinks: 'throw',
