@@ -63,6 +63,21 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+
+      algolia: {
+        apiKey: 'c24757fd3f34e0e6fccf1dba0275f1f0',
+        indexName: 'EcoTulum',
+        appId: 'VPUGE9BFJE',
+        // Optional: see doc section bellow
+        contextualSearch: true,
+  
+        // Optional: Algolia search parameters
+        //searchParameters: {},
+  
+        //... other Algolia params
+      },
+  
+
       navbar: {
         title: 'My Site',
         logo: {
