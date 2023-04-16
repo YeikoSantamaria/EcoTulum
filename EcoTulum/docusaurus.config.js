@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://yeikosantamaria.github.io/EcoTulum',
+  url: 'https://YeikoSantamaria.github.io/EcoTulum/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'yeikosantamaria', // Usually your GitHub org/user name.
+  organizationName: 'YeikoSantamaria', // Usually your GitHub org/user name.
   projectName: 'EcoTulum', // Usually your repo name.
 
   onBrokenLinks: 'throw',
