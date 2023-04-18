@@ -1,5 +1,6 @@
-
-
+---
+sidebar_position: 3
+---
 
 ## 🌴 DISTRITO ARTE 🎨
 **Entrega:** Jun 2024  
