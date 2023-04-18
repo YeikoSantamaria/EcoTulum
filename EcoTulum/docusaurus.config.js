@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Eco Tulum',
   tagline: 'Luxury Real Estate',
-  favicon: 'img/favicon.ico',
+  favicon: '',
 
   // Set the production url of your site here
   url: 'https://brave-pebble-094166c10.3.azurestaticapps.net/',
