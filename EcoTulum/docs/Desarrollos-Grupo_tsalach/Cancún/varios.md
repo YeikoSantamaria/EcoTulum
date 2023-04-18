@@ -6,10 +6,14 @@ sidebar_position: 1
 
 ## 🌴 DISTRITO ARTE 🎨​
 
-Entrega: Jun 2024
-Pago: 30/70
-Estatus: Excavación de Terreno
-Ubicación: Tulum, Av. Juanek
+*Entrega:* Jun 2024
+
+**Pago:** 30/70
+
+**Estatus:** Excavación de Terreno
+
+**Ubicación:** Tulum, Av. Juanek
+
 🚗 Drive Distrito Arte
 
     💡 Highlights​
