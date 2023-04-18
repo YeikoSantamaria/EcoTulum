@@ -79,9 +79,9 @@ const config = {
   
 
       navbar: {
-        title: 'My Site',
+        title: 'EcoTulum',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'EcoTulum Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -89,12 +89,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Desarrollos',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+         // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://Instagram.com/',
+            label: 'Instagram',
             position: 'right',
           },
         ],
@@ -106,43 +106,43 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Desarrollos',
+                to: '/docs/Desarrollos',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://Instagram.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://facebook.com/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Más',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Google',
+                href: 'https://google/maps/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} EcoTulum, Inc. Built with BUCODE.`,
       },
       prism: {
         theme: lightCodeTheme,
